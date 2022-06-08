@@ -12,7 +12,7 @@ public class Ativ_02 {
         H = ler.nextFloat();
         Area = (H * (b + B))/2;
         System.out.println("Valor exato da área: " + Area);
-        System.out.println("Valor exato da área: " + Math.roun3d(Area));
+        System.out.println("Valor exato da área: " + Area.intValue());
         }
     }
     
