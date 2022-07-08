@@ -1,3 +1,6 @@
+package EXERCÍCIOS.ATIV_04;
+
+import java.util.Scanner;
 public class Ativ_06 {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
