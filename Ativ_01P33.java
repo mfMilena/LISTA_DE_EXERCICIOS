@@ -1,3 +1,6 @@
+package EXERCÍCIOS.ATIV_01;
+
+import java.util.Scanner;
 public class Ativ_05 {
 public static void main(String[] args){
     int n1;
