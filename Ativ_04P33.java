@@ -7,7 +7,7 @@ public class Ativ_06 {
         Float Salario;
         Int Hora;
         System.out.println(" Digite a quantidade de horas trabalhadas: ");
-        Hora = ler.nextFloat();
+        Hora = ler.nextInt();
         Salario = (10.25f * Horas);
         System.out.println("O valor do salario é: " + Salario);
         }
